@@ -1,0 +1,13 @@
+body {
+	background-color: #333;
+	color: yellow;
+	margin-top: 5px;
+}
+
+.button {
+	color: lime;
+}
+
+.mark {
+	font-size: 10px;
+}
